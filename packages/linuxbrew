@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-linuxbrew
+description=Oh My Fish plugin to integrate Linuxbrew paths into shell.

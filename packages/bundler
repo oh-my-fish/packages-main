@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-bundler
+description=Use Ruby's Bundler automatically for some commands.

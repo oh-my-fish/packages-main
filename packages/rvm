@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-rvm
+description=RVM Ruby version manager.

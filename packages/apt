@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-apt
+description=Short and friendly command wrapper for APT

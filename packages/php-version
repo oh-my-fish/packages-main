@@ -1,1 +1,2 @@
 repository=https://github.com/rzyns/pkg-php-version
+description=rewrite of Wil Moore's php-version bash and zsh script for fish

@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-local-config
+description=Support per-user per-host and per-platform custom config files.

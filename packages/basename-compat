@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-basename-compat
+description=A GNU/BSD coreutils' basename compatibility layer

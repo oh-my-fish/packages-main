@@ -1,1 +1,2 @@
 repository=https://github.com/derekstavis/plugin-nvm
+description=Node version manager wrapper for Fish shell

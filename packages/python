@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-python
+description=Set of shortcuts to Python based utilities (pybeatifyjson – clean JSON files pyclean – remove old .pyc pyhttp & pysmtp – simple HTTP & SMTP servers)

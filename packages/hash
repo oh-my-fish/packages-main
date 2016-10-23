@@ -1,1 +1,2 @@
 repository=https://github.com/oh-my-fish/plugin-hash
+description=Computes string digests using various hashing algorithms
