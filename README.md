@@ -1,2 +1,2 @@
-# db
-Oh My Fish plugin database
+# WORK IN PROGRESS
+Experimental repository. Not official.
