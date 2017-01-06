@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-tab
-description=Open the current directory (or any other directory) in a new tab.
+repository = https://github.com/oh-my-fish/plugin-tab
+description = Open the current directory (or any other directory) in a new tab.

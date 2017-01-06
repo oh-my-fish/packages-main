@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-composer
-description=Composer PHP Dependency manager plugin for Oh My Fish
+repository = https://github.com/oh-my-fish/plugin-composer
+description = Composer PHP Dependency manager plugin for Oh My Fish

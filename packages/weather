@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-weather
-description=A simple, location-aware weather command for Fish
+repository = https://github.com/oh-my-fish/plugin-weather
+description = A simple, location-aware weather command for Fish

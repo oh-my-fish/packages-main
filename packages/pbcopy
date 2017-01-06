@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-pbcopy
-description=OSX's pbcopy and pbpaste for Linux.
+repository = https://github.com/oh-my-fish/plugin-pbcopy
+description = OSX's pbcopy and pbpaste for Linux.

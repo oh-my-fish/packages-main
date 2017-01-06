@@ -1,2 +1,2 @@
-repository=https://github.com/wk/plugin-ssh-term-helper
-description=Fish function that overloads the ssh command to set a conservative $TERM value
+repository = https://github.com/wk/plugin-ssh-term-helper
+description = Fish function that overloads the ssh command to set a conservative $TERM value

@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-phpbrew
-description=Fish integration for phpbrew
+repository = https://github.com/oh-my-fish/plugin-phpbrew
+description = Fish integration for phpbrew

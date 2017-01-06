@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-bang-bang
-description=Bash style history substitution for Oh My Fish
+repository = https://github.com/oh-my-fish/plugin-bang-bang
+description = Bash style history substitution for Oh My Fish

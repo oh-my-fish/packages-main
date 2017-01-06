@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-getopts
-description=A Unix compliant implementation of getopts for fish.
+repository = https://github.com/oh-my-fish/plugin-getopts
+description = A Unix compliant implementation of getopts for fish.

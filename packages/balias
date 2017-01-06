@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-balias
-description=Provide alias with auto completion.
+repository = https://github.com/oh-my-fish/plugin-balias
+description = Provide alias with auto completion.

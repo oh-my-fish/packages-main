@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-docker-machine
-description=Plugin to integrate Docker Machine
+repository = https://github.com/oh-my-fish/plugin-docker-machine
+description = Plugin to integrate Docker Machine

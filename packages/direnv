@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-direnv
-description=Unclutter your .profile http://direnv.net
+repository = https://github.com/oh-my-fish/plugin-direnv
+description = Unclutter your .profile http://direnv.net

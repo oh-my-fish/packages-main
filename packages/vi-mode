@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-vi-mode
-desription=Basic vi key bindings emulation for fish.
+repository = https://github.com/oh-my-fish/plugin-vi-mode
+desription = Basic vi key bindings emulation for fish.

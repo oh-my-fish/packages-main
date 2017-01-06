@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-errno
-description=A Oh My Fish plugin to deal with POSIX error codes
+repository = https://github.com/oh-my-fish/plugin-errno
+description = A Oh My Fish plugin to deal with POSIX error codes

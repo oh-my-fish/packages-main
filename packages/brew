@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-brew
-description=Oh My Fish plugin to integrate Homebrew paths into shell.
+repository = https://github.com/oh-my-fish/plugin-brew
+description = Oh My Fish plugin to integrate Homebrew paths into shell.

@@ -1,2 +1,2 @@
-repository=https://github.com/oh-my-fish/plugin-aws
-description=Completions and integrations with the AWS CLI
+repository = https://github.com/oh-my-fish/plugin-aws
+description = Completions and integrations with the AWS CLI
