@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-mou
 description = Use Mou.app from command line.

@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-node-binpath
 description = Automatically add node_modules binaries to PATH

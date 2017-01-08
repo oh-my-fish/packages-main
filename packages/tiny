@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-tiny
 description = tap into github's git.io URL shortener.

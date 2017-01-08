@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-pyenv
 description = Simple Python Version Management integration.

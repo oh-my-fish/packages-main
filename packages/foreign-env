@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-foreign-env
 description = Run foreign bash scripts and capture exported environment variables

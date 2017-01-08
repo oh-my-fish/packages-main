@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-proxy
 description = Proxy settings plugin for Oh My Fish

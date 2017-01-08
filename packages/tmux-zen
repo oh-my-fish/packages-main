@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/sagebind/tmux-zen
 description = Achieve true terminal zen with tmux and Oh My Fish.

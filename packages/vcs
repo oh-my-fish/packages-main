@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/oh-my-fish/plugin-vcs
 description = A version control system abstraction layer for Fishshell

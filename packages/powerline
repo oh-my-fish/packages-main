@@ -1,2 +1,3 @@
+type = plugin
 repository = https://github.com/iamruinous/plugin-powerline
 description = Add powerline support to fish using omf
