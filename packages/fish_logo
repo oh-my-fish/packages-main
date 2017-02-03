@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/HenrikWL/plugin-fish_logo
+description = A fish_logo function for the fish shell, creating the ASCII art fish
