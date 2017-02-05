@@ -1,2 +1,3 @@
 type = theme
 repository = https://github.com/hasanozgan/theme-lambda
+description = lambda theme for oh my fish

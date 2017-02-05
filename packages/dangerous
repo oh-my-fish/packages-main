@@ -1,2 +1,3 @@
 type = theme
 repository = https://github.com/oh-my-fish/theme-dangerous
+description = A feature-rich theme derived from budspencer without powerline font.

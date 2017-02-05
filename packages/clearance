@@ -1,2 +1,3 @@
 type = theme
 repository = https://github.com/oh-my-fish/theme-clearance
+description = A minimalist fish shell theme for people who use git
