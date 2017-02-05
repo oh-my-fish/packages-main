@@ -1,2 +1,3 @@
 type = theme
 repository = https://github.com/oh-my-fish/theme-cmorrell.com
+description = Theme with minimal base prompt, compact git status, and useful visual indicators for common scenarios.

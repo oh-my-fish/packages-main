@@ -1,2 +1,3 @@
 type = theme
 repository = https://github.com/oh-my-fish/theme-fishbone
+description = A clean theme for fish shell managed by Oh my fish
