@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/fivepointseven/omf-theme-one
+maintainer = fivepointseven <fivepointseven@users.noreply.github.com>
+description = Personal preference theme for fish shell (based on Toaster)
