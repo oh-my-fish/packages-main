@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/derekstavis/plugin-prj
+maintainer = Derek Stavis
+description = A simple and fast project jump command
