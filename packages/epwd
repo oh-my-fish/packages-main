@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/alyyousuf7/plugin-epwd
+maintainer = Ali Yousuf <aly.yousuf7@gmail.com>
+description = A plugin for Oh My Fish to output the current working directory relative to environment variables
