@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/zzamboni/plugin-autoproxy.git
+maintainer = Diego Zamboni <diego@zzamboni.org>
+description = Automatically-set proxy settings plugin for Oh My Fish

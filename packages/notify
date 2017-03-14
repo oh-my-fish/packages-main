@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/zzamboni/plugin-notify.git
+maintainer = Diego Zamboni <diego@zzamboni.org>
+description = Console-based notification plugin for Oh My Fish
