@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/doughsay/omf-asdf
+maintainer = Chris Dosé <chris.dose@gmail.com>
+description = Access to asdf through oh-my-fish plugin rather than manual install
