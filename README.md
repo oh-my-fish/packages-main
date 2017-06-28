@@ -25,6 +25,11 @@ description = YOUR-PACKAGE-DESCRIPTION
 
 Be sure to use a cloneable Git URL for your package. If your package is a theme, use `type = theme` instead.
 
+Once you've created and committed your package description file, [open a pull request][new-pr] with your change, and the repository maintainers will review your submission and merge it in to the main repo.
+
+Once your pull request is merged, your package will be immediately available for all users to install!
+
 
 [fish]: http://fishshell.com
+[new-pr]: https://github.com/oh-my-fish/packages-main/pull/new/master
 [oh-my-fish]: https://github.com/oh-my-fish/oh-my-fish
