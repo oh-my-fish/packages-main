@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/usami-k/gls
+maintainer = USAMI Kosuke <usami.kosuke@gmail.com>
+description = GNU ls support on macOS
