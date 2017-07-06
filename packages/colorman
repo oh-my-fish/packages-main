@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/spacekookie/omf-color-manual
+maintainer = Katharina Fey <kookie@spacekookie.de>
+description = Add a touch of color to your manual pages
