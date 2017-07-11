@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/TeddyDD/plugin-wacom-screen
+maintainer = Daniel Lewan <vision360.daniel@gmail.com>
+description = Map Wacom tablets to given screen
