@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/RubieV/plugin-fuck
+maintainer = Ruben van Vreeland <rubenvanvreeland@gmail.com>
+description = Execute last command as sudo
