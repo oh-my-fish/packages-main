@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/RubieV/plugin-lucky
+maintainer = Ruben van Vreeland <rubenvanvreeland@gmail.com>
+description = Google I'm feeling lucky in your shell
