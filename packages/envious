@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/iamruinous/plugin-envious
+maintainer = Jade Meskill <jade.meskill@gmail.com>
+description = manage shell environment variables using the filesystem
