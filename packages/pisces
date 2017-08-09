@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/laughedelic/pisces
+maintainer = Alexey Alekhin <laughedelic@gmail.com>
+description = Quotes, parenthesis and other pair-symbols autocompletion
