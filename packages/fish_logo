@@ -1,3 +1,4 @@
 type = plugin
-repository = https://github.com/HenrikWL/plugin-fish_logo
-description = A fish_logo function for the fish shell, creating the ASCII art fish
+repository = https://github.com/laughedelic/fish_logo
+maintainer = Alexey Alekhin <laughedelic@gmail.com>
+description = Fish-shell colorful ASCII-art logo
