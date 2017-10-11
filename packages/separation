@@ -3,9 +3,3 @@ repository  = https://github.com/roflcopter4/separation
 maintainer  = RoflCopter4 <brendan.leason.4@gmail.com>
 description = An oh-my-fish theme for those who like the output of each 
               command to be clearly distinguishable from the rest. 
-summary     = A theme which displays a horizontal bar across the terminal for
-              each prompt, visually separating the output of each command.
-              Displays return status (if not 0), username, hostname, and the
-              working directory on the second line. If this string is longer
-              than two fifths of the screen, the prompt is split into a third
-              line, ensuring plenty of space to type commands.
