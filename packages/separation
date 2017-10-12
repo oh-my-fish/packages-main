@@ -1,0 +1,4 @@
+type        = theme
+repository  = https://github.com/roflcopter4/separation
+maintainer  = RoflCopter4 <brendan.leason.4@gmail.com>
+description = An oh-my-fish theme for those who like the output of each command to be clearly distinguishable from the rest. 
