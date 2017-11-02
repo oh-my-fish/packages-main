@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/abingham/aight-fish-theme
+description = A theme for fish
+maintainer = Austin Bingham <austin.bingham@gmail.com>
