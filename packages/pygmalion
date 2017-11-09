@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/corevo/theme-pygmalion
+maintainer = Tomer Steinfeld <tomer@corevo.io>
+description = fish theme based on zsh's pygmaion
