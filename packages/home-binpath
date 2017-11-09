@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/iamruinous/plugin-home-binpath
+maintainer = Jade Meskill <jade.meskill@gmail.com>
+description = automagically add $HOME/.bin to your path

@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/iamruinous/plugin-yarn-binpath
+maintainer = Jade Meskill <jade.meskill@gmail.com>
+description = automagically add `yarn global bin` to your path
