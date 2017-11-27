@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/aneveux/theme-harleen
+maintainer = Antoine Neveux <antoine.neveux@gmail.com>
+description = A colorful theme inspired from Harleen Quinzel character.
