@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/lightify97/randomrussel
+maintainer = Muhammad Ramzan <ramzanm461@gmail.com>
+description = A fish theme that presents the prompt in different random colors.
