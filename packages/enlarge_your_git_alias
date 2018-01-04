@@ -1,0 +1,3 @@
+type = plugin
+repository = https://gitlab.com/pinage404/omf_pkg_enlarge_your_git_alias
+description = Plugin that copies each git-alias as abbreviations in Fish Shell
