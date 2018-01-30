@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/jdxcode/gh
+maintainer = Jeff Dickey <jdxcode@gmail.com>
+description = github repo manager
