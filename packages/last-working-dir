@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/kfkonrad/last-working-dir-fish-pkg
+description = Always open new fish shells in your last working directory (i.e. the last directory you cd'd into)
+maintainer = Kevin F. Konrad <info@kevinkonrad.de>
