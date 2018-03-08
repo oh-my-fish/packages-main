@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/somebody1234/plugin-zypper
+description = abbreviations for SUSE's package manager zypper
