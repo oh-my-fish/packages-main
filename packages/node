@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/oh-my-fish/plugin-node
+description = Adds npm and ./node_modules/.bin to the path
