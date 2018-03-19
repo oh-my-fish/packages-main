@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/komarnitskyi/theme-zephyr
+maintainer = Andrii Komarnitskyi <ticapac@gmail.com>
+description = Rapid, minimalistic theme for Oh My Fish
