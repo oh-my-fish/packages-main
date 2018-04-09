@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/ipatch/theme-neolambda
+maintainer = Chris Jones <chris.r.jones.1983@gmail.com>
+description = An updated for of the lambda theme
