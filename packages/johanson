@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/johanson/theme-johanson
+maintainer = Rasmus Johanson rasmusjohanson@gmail.com
+description = A two-line theme with Python virtual environment support. Loosely based on cbjohnson.
