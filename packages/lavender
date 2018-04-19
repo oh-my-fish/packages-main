@@ -1,3 +1,4 @@
 type = theme
 repository = https://github.com/tungpun/fish-theme-lavender
+maintainer = tungpun me@tungpun.pw
 description = A sexy theme for fishshell
