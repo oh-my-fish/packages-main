@@ -1,2 +1,2 @@
 type = plugin
-repository = https://github.com/pkg-gretel/pkg-extract
+repository = https://github.com/oh-my-fish/plugin-extract
