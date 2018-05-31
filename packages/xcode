@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/aaronsky/xcode-omf
+maintainer = Aaron Sky aaronsky@skyaaron.com
+description = A collection of utility functions for working with Xcode
