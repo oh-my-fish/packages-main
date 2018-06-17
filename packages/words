@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/hThoreau/words
+maintainer = hThoreau
+description = Bookmark folders for easy access and path retrieval
