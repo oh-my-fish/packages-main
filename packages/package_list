@@ -1,4 +1,4 @@
 type = plugin
-repository = https://github.com/hThoreau/package_list
+repository = https://gitlab.com/hThoreau/package_list
 maintainer = hThoreau
 description = Additional commands to list packages manually installed using apt
