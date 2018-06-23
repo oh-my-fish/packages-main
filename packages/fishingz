@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/nekochango/fishingz
+maintainer = nekochango@gmail.com
+description = Fish shell plugin for access all file systems
