@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/hThoreau/back
+maintainer = hThoreau
+description = Go to a parent directory with a name that matches a given pattern
