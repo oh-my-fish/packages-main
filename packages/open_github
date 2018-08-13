@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/patrickf3139/open_github
+maintainer = patrickf3139
+description = Shortcut to open the GitHub page for the current branch in browser
