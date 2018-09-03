@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/edc/bass
+maintainer = Eddie Cao <edc@users.noreply.github.com>
+description = Make Bash utilities usable in Fish shell
