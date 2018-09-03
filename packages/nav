@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/hThoreau/nav
+maintainer = hThoreau
+description = Navigational Assistance with Velocity. Find a directory that matches a given pattern and make it the current working directory.
