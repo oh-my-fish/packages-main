@@ -1,4 +1,0 @@
-type = plugin
-repository = https://gitlab.com/hThoreau/bookmark_dir
-maintainer = hThoreau
-description = Bookmark folders for easy access and path retrieval
