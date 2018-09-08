@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/lusiadas/insist
+maintainer = hThoreau
+description = Repeat the previous command line input, either until it is successful, or for a given amount of attempts.
