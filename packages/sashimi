@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/isacikgoz/sashimi
+maintainer = Ibrahim Serdar Acikgoz <serdaracikgoz86@gmail.com>
+description = A simple and lightweight prompt with git integration.
