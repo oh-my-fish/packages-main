@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/idleberg/omf-plugin-makensis
+description = Provides completions for MakeNSIS
