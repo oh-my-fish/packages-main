@@ -1,3 +1,4 @@
 type = plugin
-repository = https://github.com/oh-my-fish/plugin-pyenv
-description = Simple Python Version Management integration.
+repository = https://github.com/rominf/omf-plugin-pyenv
+maintainer = Roman Inflianskas <infroma@gmail.com>
+description = Pyenv support plugin for fish-shell
