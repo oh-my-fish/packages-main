@@ -1,2 +1,4 @@
 type = plugin
-repository = https://github.com/gretel/pkg-fzf
+repository = https://github.com/jethrokuan/fzf
+maintainer = Jethro Kuan <hi@jethrokuan.com>
+description = Ef-fish-ient fish keybindings for fzf
