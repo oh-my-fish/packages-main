@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/lusiadas/peco_utils
+maintainer = hThoreau
+description = A wrapper script for peco, the simplistic interactive filtering tool, with additional options and completions

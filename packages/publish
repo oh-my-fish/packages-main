@@ -1,4 +1,4 @@
 type = plugin
-repository = https://gitlab.com/hThoreau/publish
+repository = https://gitlab.com/lusiadas/publish
 maintainer = hThoreau
 description = A command to upload the contents of files, or the clipboard, to Debian's pastebin.
