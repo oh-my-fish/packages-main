@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/patrickf3139/Colored-Man-Pages
+maintainer = patrickf3139
+description = function wrapper around man to colorize styled text in man pages
