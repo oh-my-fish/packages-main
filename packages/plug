@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/willfish/plugin-plug
+maintainer = http://github.com/willfish
+description = Wrapper for interacting with vim-plug: https://github.com/junegunn/vim-plug
