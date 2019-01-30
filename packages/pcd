@@ -1,0 +1,5 @@
+type = plugin
+repository = https://github.com/AniketB669/plugin-pcd.git
+maintainer = Aniket Bhattacharyea <aniketmail669@gmail.com>
+description = Automatically run a script when cd'ing in or out of a directory
+
