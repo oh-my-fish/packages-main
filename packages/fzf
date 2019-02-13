@@ -1,4 +1,5 @@
 type = plugin
 repository = https://github.com/jethrokuan/fzf
+branch = omf
 maintainer = Jethro Kuan <hi@jethrokuan.com>
 description = Ef-fish-ient fish keybindings for fzf
