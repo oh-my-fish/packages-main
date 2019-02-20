@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/kfkonrad/cf-fish-pkg
+description = Command completion for the CloudFoundry CLI
+maintainer = Kevin F. Konrad <info@kevinkonrad.de>
