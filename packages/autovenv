@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/timothybrown/fish-autovenv
+maintainer = Timothy Brown <sysop@timb.us>
+description = Automatically activate/deactivate Python virtual enviroments when entering/leaving a directory
