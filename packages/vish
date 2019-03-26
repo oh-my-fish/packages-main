@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/Wesmania/vish
+maintainer = Wesmania
+description = A bunch of vim-style bindings for fish, with registers
