@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/joelwanner/theme-boxfish
+description = A simple and clean ASCII prompt with compact vi mode support.
+maintainer = Joel Wanner <joel.wanner@me.com>
