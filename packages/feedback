@@ -1,4 +1,4 @@
 type = plugin
-repository = https://gitlab.com/lusiadas/feedback
-maintainer = hThoreau
-description = Formatting to display feedback messages, usually in the context of a fish plugin.
+repository = https://gitlab.com/argonautica/feedback
+maintainer = Aragon
+description = A plugin to display feedback messages neatly. Usually used in other plugins.
