@@ -1,4 +1,0 @@
-type = plugin
-repository = https://gitlab.com/lusiadas/pgen
-maintainer = hThoreau
-description = A secure passphrase generator.
