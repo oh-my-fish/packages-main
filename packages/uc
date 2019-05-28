@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/argonautica/uc
+maintainer = Aragon
+description = List photo collections on unsplash from where to get a wallpaper at random.
