@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/argonautica/contains_opts
+maintainer = Aragon
+description = Check if the command line contains any of the listed flags. If no flags are listed, it tests if the command line contains any flag at all.
