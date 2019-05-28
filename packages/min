@@ -1,0 +1,4 @@
+type = theme
+repository = https://gitlab.com/argonautica/min
+maintainer = Aragon
+description = A minimal prompt for the fish shell.
