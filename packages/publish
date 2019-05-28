@@ -1,4 +1,4 @@
 type = plugin
-repository = https://gitlab.com/lusiadas/publish
-maintainer = hThoreau
-description = A command to upload the contents of files, or the clipboard, to Debian's pastebin.
+repository = https://gitlab.com/argonautica/publish
+maintainer = Aragon
+description = Publish to a pastebin the contents of the clipboard, a file, or several files, either entirelly or partially.
