@@ -1,4 +1,0 @@
-type = plugin
-repository = https://gitlab.com/lusiadas/package_list
-maintainer = hThoreau
-description = Additional commands to list packages manually installed using apt
