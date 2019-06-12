@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/M4rk9696/theme-mish.git
+maintainer = M4rk9696 <nimalan.m@protonmail.com>
+description = A minimal fish theme with just the essentials
