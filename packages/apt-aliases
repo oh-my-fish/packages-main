@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/Gazorby/apt-aliases
+maintainer = Matthieu <mmacnab22@gmail.com>
+description = Port of oh-my-zsh ubuntu plugin for fish shell
