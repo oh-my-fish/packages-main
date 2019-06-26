@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/rideron89/rider-theme
+maintainer = Ron Rider <rideron89@gmail.com>
+description = A theme with git integration and command info.
