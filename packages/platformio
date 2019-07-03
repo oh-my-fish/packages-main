@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/Yuri-M-Dias/omf-platformio
+maintainer = Yuri-M-Dias
+description = Platformio wrapper for the Fish Shell
