@@ -1,0 +1,4 @@
+type: plugin
+repository: https://github.com/avimehenwal/git-refresh.git
+maintainer: Avi Mehenwal <avi@campus.uni-paderborn.de>
+description: git pull automatically wherever you cd inside a git repository
