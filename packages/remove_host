@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/johanmeiring/fish-remove_host
+description = Adds `remove_host` function to remove host keys from specific lines in known_hosts file.
