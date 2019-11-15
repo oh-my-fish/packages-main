@@ -1,0 +1,4 @@
+type = plugin
+repository = git@github.com:orf/virtualenv-fish.git
+maintainer = Tom Forbes <tom@tomforb.es>
+description = Manage Python virtual environments with Fish
