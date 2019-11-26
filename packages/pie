@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/grissius/theme-pie
+maintainer = Jaroslav Šmolík <grissius@gmail.com>
+description = A minimalist developer-friendly shell prompt for fish shell
