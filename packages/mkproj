@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/MichelKazi/mkproj
+maintainer = MichelKazi
+description = Create a new directory and a github repo with one command!
