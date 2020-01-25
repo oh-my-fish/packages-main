@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/nju33/fish-age
-maintainer = nju33
-description = To get next version from git tag (e.g. v1.0.0)
