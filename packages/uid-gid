@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/maurocchi/omf-plugin-uid-gid
+description = Expose the user and group IDs as environment variables (UID and GID)
