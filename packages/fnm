@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/james2doyle/omf-plugin-fnm
+maintainer = james2doyle
+description = Completion support for Schniz/fnm
