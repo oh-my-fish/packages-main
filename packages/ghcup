@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/develop7/omf-ghcup
+maintainer = Andrei Dziahel <develop7@develop7.info>
