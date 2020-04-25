@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/b4b4r07/enhancd
+maintainer = gazorby <gazorby@pm.me>
+description = A next-generation cd command with your interactive filter
