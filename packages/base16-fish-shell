@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/FabioAntunes/base16-fish-shell
+maintainer = Fabio Antunes <fabioantuness@gmail.com>
+description = Base16 themes for Fish Shell
