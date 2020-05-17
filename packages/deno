@@ -1,0 +1,5 @@
+type = plugin
+repository = https://github.com/wayou/plugin-deno
+maintainer = wayou <liuwayong@gmail.com>
+description = A Oh My Fish plugin to provide completions for deno
+
