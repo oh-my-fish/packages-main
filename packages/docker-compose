@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/demartini/plugin-docker-compose
+maintainer = Iolar Demartini Junior <iolardemartini@gmail.com>
+description = Docker Compose aliases plugin for fish shell.
