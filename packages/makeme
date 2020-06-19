@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/OakNinja/MakeMeFish
+maintainer = OakNinja
+description = Easing the usage of Makefiles with the power of fzf
