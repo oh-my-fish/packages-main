@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/MrSiliconGuy/theme-solarfish
+maintainer = MrSiliconGuy bcavocado25@gmail.com
+description = A simple, git-aware, two-line fish theme
