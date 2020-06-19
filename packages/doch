@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/ohmyfish/doch.git
+maintainer = Marc-André Appel <marc-andre@appel.fun>
+description = Repeat the last command as sudo
