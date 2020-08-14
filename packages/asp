@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/m-radzikowski/omf-plugin-asp
+maintainer = Maciej Radzikowski <maciej@radzikowski.com.pl>
+description = Enables quick switching between AWS profiles.
