@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/trentbitterman/theme-humber
+maintainer = Trent Bitterman trentbitterman@comcast.net
+description = A theme inspired by fishy-drupal with some modifications of my own.
