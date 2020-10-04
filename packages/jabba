@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/2m/fish-jabba
+maintainer = 2m
+description = Jabba integration with autocomplete features
