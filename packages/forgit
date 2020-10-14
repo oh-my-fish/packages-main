@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/wfxr/forgit
+maintainer = cjappl
+description = Utility tool for using git interactively. Powered by junegunn/fzf. 
