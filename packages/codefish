@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/MustafaSalih1993/codefish
+maintainer = Mustafa Salih <mustafasalih1991@gmail.com>
+description = Minimal and simple theme for the fish-shell.
