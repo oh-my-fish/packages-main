@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/MustafaSalih1993/python_logo
+maintainer = Mustafa Salih <mustafasalih1991@gmail.com>
+description = python ASCII-art logo for the Fish-shell
