@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/threeal/omf-plugin-update-date
+maintainer = Alfi Maulana <alfi.maulana.f@gmail.com>
+description = Update system date using HTTP response header.
