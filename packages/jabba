@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/2m/fish-jabba
+maintainer = Martynas Mickevičius <self@2m.lt>
+description =  Fish shell plugin that adds completions for jabba
