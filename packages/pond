@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/marcransome/pond
+maintainer = Marc Ransome <marc.ransome@fidgetbox.co.uk>
+description = A shell environment manager for the fish shell
