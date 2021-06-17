@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/guillaumeboehm/theme-jonathan
+maintainer = Boehm Guillaume guillaumeboehm@hotmail.fr
+description = A theme heavily based on ohmyzsh jonathan, with bits of ohmyfish lambda.
