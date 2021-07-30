@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/redxtech/yadd.git
-maintainer = Gabe Dunn <gabe.dunn@shaw.ca>
-description = A yarn/npm plugin for Oh My Fish.

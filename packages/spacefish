@@ -1,4 +1,0 @@
-type = theme
-repository = https://github.com/matchai/spacefish
-maintainer = Matan Kushner <hello@matchai.me>
-description = 🚀🐟 A fish shell prompt for astronauts
