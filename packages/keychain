@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/jitakirin/pkg-keychain.git
-maintainer = jitakirin <jitakirin@gmail.com>
-description = Keychain helps you manage SSH and GPG keys

@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/james2doyle/omf-plugin-artisan
-maintainer = james2doyle
-description = Laravel artisan completions
