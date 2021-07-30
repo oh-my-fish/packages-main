@@ -1,4 +1,4 @@
 type = theme
-repository = https://github.com/mcansh/zeit-fish-theme
+repository = https://github.com/mcansh/vercel-fish-theme
 maintainer = Logan McAnsh logan@mcan.sh
 description = a port of https://github.com/zeit/zeit.zsh-theme
