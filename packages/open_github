@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/patrickf3139/open_github
-maintainer = patrickf3139
-description = Jump to the GitHub PR page or tree view for the current branch

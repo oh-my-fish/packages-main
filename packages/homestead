@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/dwhoban/homestead
-maintainer = Dan Hoban <dan@hoban.digital>
-description = A plugin to access Laravel Homestead globally.

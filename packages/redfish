@@ -1,3 +1,0 @@
-type = theme
-repository = https://github.com/redxtech/redfish
-description = A minimalistic theme with git information, status codes, and ssh information.
