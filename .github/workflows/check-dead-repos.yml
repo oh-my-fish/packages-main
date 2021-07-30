@@ -1,0 +1,22 @@
+name: Check for dead repositories
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '30 5,17 * * *'
+jobs:
+  check-dead-repos:
+    runs-on: ubuntu-latest
+    env:
+      HOME: /home/nemo
+      USERNAME: ${{ secrets.USERNAME }}
+      TOKEN: ${{ secrets.TOKEN }}
+    container: ohmyfish/ohmyfish
+    steps:
+      - name: Change current working directory owner and group
+        run: sudo chown -R nemo:nemo .
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: sudo apk add python3
+      - name: Check dead repositories
+        run: fish .github/workflows/check-dead-repos.fish
