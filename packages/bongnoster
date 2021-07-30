@@ -1,4 +1,0 @@
-type = theme
-repository = https://github.com/kfkonrad/bongnoster-fish-theme
-description = A more slender adaption of the agnoster theme that displays the current user, path and VCS information
-maintainer = Kevin F. Konrad <info@kevinkonrad.de>
