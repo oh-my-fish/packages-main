@@ -1,4 +1,4 @@
 type = plugin
 repository = https://github.com/rominf/omf-plugin-hub
 maintainer = Roman Inflianskas <infroma@gmail.com>
-description =  Fish shell plugin that adds alias and completions for github hub
+description = Fish shell plugin that adds alias and completions for github hub
