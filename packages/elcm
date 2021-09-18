@@ -1,0 +1,3 @@
+type = theme
+repository = https://github.com/oh-my-fish/theme-elcm
+description = A customizable theme for fishshell.
