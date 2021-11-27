@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/nianjie/underbar.git
+maintainer = nj
+description = a plugin supposed to bind with custom key to write stdout to a dedicated Fish vairable.
