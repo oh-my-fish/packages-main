@@ -2,3 +2,4 @@ type = plugin
 repository = https://github.com/PatrickF1/colored_man_pages.fish/
 maintainer = PatrickF1
 description = function wrapper around man to colorize styled text in man pages
+branch = main
