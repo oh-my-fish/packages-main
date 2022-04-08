@@ -2,3 +2,4 @@ type = theme
 repository = https://github.com/marcin-dudek/lambda-zero
 maintainer = Marcin Dudek <manekd@gmail.com>
 description = Minimalistic fish theme with lambda as prompt
+branch = main
