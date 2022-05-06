@@ -15,7 +15,9 @@ jobs:
     steps:
       - name: Change current working directory owner and group
         run: sudo chown -R nemo:nemo .
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          set-safe-directory: false
       - name: Install dependencies
         run: sudo apk add python3
       - name: Check dead repositories
