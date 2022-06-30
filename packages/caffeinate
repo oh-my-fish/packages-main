@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/thegcat/caffeinate
+maintainer = thegcat
+description = Disable system idle sleep while certain commands run
