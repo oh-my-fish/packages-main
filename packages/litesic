@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/AggamR/litesic
+maintainer = Aggam Rahamim <agamclass@gmail.com>
+description = a nice bash-like theme, without the name of user or machine. 
