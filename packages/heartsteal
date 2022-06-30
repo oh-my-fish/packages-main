@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/AnashiKitsun/heartsteal
+maintainer = Anashi diamondguy9700@gmail.com
+description = Highly minimal two line fish prompt to steal the show
