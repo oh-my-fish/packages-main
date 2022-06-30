@@ -1,4 +1,3 @@
 type = plugin
 repository = https://github.com/derekstavis/plugin-fonts
-description = Automatically download and install fonts from Google Fonts and Powerline Fonts type = plugin
-repositories
+description = Automatically download and install fonts from Google Fonts and Powerline Fonts repositories
