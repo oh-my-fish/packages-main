@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/MortalHappiness/theme-mint.git
+maintainer = MortalHappiness (Chi-Sheng Liu) <qwertyuiop5204444@gmail.com>
+description = Fish prompt theme with Linux Mint default bash $PS1
