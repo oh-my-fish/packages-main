@@ -27,8 +27,6 @@ except:
     repo = None
 if not repo:
     logging.error("%s could not be read ❌", sys.argv[1])
-elif "documentation_url" in repo:
-    logging.critical("rate limit exceeded when reading %s", sys.argv[1])
 elif repo.get("message", "") == "Moved Permanently":
     logging.error("%s has moved permanently ❌", sys.argv[1])
 elif repo.get("message", "") == "Not Found":
@@ -37,6 +35,9 @@ elif repo.get("archived", False):
     logging.error("%s has been archived ❌", sys.argv[1])
 elif repo.get("has_issues") is False:
     logging.error("%s has issues disabled ❌", sys.argv[1])
+elif "documentation_url" in repo:
+    message = repo.get("message", "🤷🏻‍♂️")
+    logging.critical("'%s' when reading %s", message, sys.argv[1])
 else:
     logging.info("%s is okay ✅", sys.argv[1])
     sys.exit(0)
