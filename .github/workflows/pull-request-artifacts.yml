@@ -1,0 +1,13 @@
+name: Pull Request Artifacts
+on:
+  pull_request:
+jobs:
+  pull-request-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: packages
+          path: packages/

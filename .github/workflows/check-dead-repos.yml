@@ -1,24 +1,53 @@
 name: Check for dead repositories
 on:
   push:
-  pull_request:
   schedule:
     - cron: '30 5,17 * * *'
+  workflow_run:
+    workflows: [Pull Request Artifacts]
+    types:
+      - completed
 jobs:
   check-dead-repos:
     runs-on: ubuntu-latest
     env:
-      HOME: /home/nemo
       USERNAME: ${{ secrets.USERNAME }}
       TOKEN: ${{ secrets.TOKEN }}
-    container: ohmyfish/ohmyfish
     steps:
-      - name: Change current working directory owner and group
-        run: sudo chown -R nemo:nemo .
       - uses: actions/checkout@v3
         with:
           set-safe-directory: false
       - name: Install dependencies
-        run: sudo apk add python3
+        run: sudo apt update && sudo apt install -y fish python3
+      - name: Download artifact
+        if: >
+          (github.event.workflow_run.event == 'pull_request' &&
+          github.event.workflow_run.conclusion == 'success')
+        uses: actions/github-script@v6.1.0
+        with:
+          script: |
+            var artifacts = await github.actions.listWorkflowRunArtifacts({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               run_id: ${{ github.event.workflow_run.id }},
+            });
+            var matchArtifact = artifacts.data.artifacts.filter((artifact) => {
+              return artifact.name == "packages"
+            })[0];
+            var download = await github.actions.downloadArtifact({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               artifact_id: matchArtifact.id,
+               archive_format: 'zip',
+            });
+            var fs = require('fs');
+            fs.writeFileSync('${{ github.workspace }}/packages.zip', Buffer.from(download.data));
+      - name: Unzip packages
+        if: >
+          (github.event.workflow_run.event == 'pull_request' &&
+          github.event.workflow_run.conclusion == 'success')
+        run: |
+          rm packages/*
+          unzip packages.zip -d./packages/
       - name: Check dead repositories
         run: fish .github/workflows/check-dead-repos.fish
