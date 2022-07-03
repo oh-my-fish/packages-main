@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/devansh08/simple
+maintainer = Devansh Sharma <devansh.sharma@gmail.com>
+description = A fork of godfather theme with some extra features & modifications.
