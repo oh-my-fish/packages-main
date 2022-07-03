@@ -38,7 +38,7 @@ for package in $packages
   set count (math $count + $status)
 end
 
-set -l total (ls $packages | wc -l)
+set -l total (ls $packages | wc -l | tr -d ' ')
 
 if test $count -gt 0
   echo Found $count/$total repositories with issues 💥
