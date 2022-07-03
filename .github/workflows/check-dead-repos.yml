@@ -53,8 +53,8 @@ jobs:
         id: check
         run: fish .github/workflows/check-dead-repos.fish
       - name: Comment success on PR
-        if: ${{ always() && (github.event.workflow_run.event != 'pull_request' &&
-          github.event.workflow_run.conclusion != 'success') }}
+        if: ${{ always() && (github.event.workflow_run.event == 'pull_request' &&
+          github.event.workflow_run.conclusion == 'success') }}
         uses: actions/github-script@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
