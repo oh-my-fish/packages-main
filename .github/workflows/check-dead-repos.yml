@@ -29,7 +29,7 @@ jobs:
             var artifacts = await github.rest.actions.listWorkflowRunArtifacts({
                owner: context.repo.owner,
                repo: context.repo.repo,
-               run_id: 2606174931,
+               run_id: ${{ github.event.workflow_run.id }},
             });
             var matchArtifact = artifacts.data.artifacts.filter((artifact) => {
               return artifact.name == "packages"
@@ -48,6 +48,6 @@ jobs:
           github.event.workflow_run.conclusion == 'success')
         run: |
           rm packages/*
-          unzip packages.zip -d./packages/
+          unzip packages.zip
       - name: Check dead repositories
         run: fish .github/workflows/check-dead-repos.fish
