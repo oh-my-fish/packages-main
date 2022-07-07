@@ -1,71 +1,20 @@
 name: Check for dead repositories
 on:
   push:
+  pull_request:
   schedule:
     - cron: '30 5,17 * * *'
-  workflow_run:
-    workflows: [Pull Request Artifacts]
-    types:
-      - completed
 jobs:
   check-dead-repos:
     runs-on: ubuntu-latest
     env:
-      USERNAME: ${{ secrets.USERNAME }}
-      TOKEN: ${{ secrets.TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v3
         with:
           set-safe-directory: false
       - name: Install dependencies
         run: sudo apt update && sudo apt install -y fish python3
-      - name: Download artifact
-        if: >
-          (github.event.workflow_run.event == 'pull_request' &&
-          github.event.workflow_run.conclusion == 'success')
-        uses: actions/github-script@v6.1.0
-        with:
-          script: |
-            var artifacts = await github.rest.actions.listWorkflowRunArtifacts({
-               owner: context.repo.owner,
-               repo: context.repo.repo,
-               run_id: ${{ github.event.workflow_run.id }},
-            });
-            var matchArtifact = artifacts.data.artifacts.filter((artifact) => {
-              return artifact.name == "packages"
-            })[0];
-            var download = await github.rest.actions.downloadArtifact({
-               owner: context.repo.owner,
-               repo: context.repo.repo,
-               artifact_id: matchArtifact.id,
-               archive_format: 'zip',
-            });
-            var fs = require('fs');
-            fs.writeFileSync('${{ github.workspace }}/packages.zip', Buffer.from(download.data));
-      - name: Unzip packages
-        if: >
-          (github.event.workflow_run.event == 'pull_request' &&
-          github.event.workflow_run.conclusion == 'success')
-        run: |
-          rm packages/*
-          unzip packages.zip
       - name: Check dead repositories
         id: check
         run: fish .github/workflows/check-dead-repos.fish
-      - name: Comment success on PR
-        if: ${{ always() && (github.event.workflow_run.event == 'pull_request' &&
-          github.event.workflow_run.conclusion == 'success') }}
-        uses: actions/github-script@v3
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            var fs = require('fs');
-            var issue_number = Number(fs.readFileSync('.pr_number'));
-            await github.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issue_number,
-              body: '${{ steps.check.conclusion }}' == 'success' ?
-                '✅ Everything looks OK! [Workflow ran successfully](https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}).' :
-                '🔴 Check for dead repositories failed! [Workflow failed](https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}).'
-            });

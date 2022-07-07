@@ -12,9 +12,7 @@
 
 function read_repository -a user_repo
   set -l url https://api.github.com/repos/$user_repo
-  test "$USERNAME:$TOKEN" != ":"
-    and curl -s -u $USERNAME:$TOKEN $url
-    or curl -s $url
+  curl -s -H "Authorization: Bearer $GITHUB_TOKEN" $url
 end
 
 set -l packages packages/*
