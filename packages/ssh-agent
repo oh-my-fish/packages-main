@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/bytefluxio/plugin-ssh-agent
+maintainer = Robert Westman <robert@byteflux.io>
+description = Start and share ssh-agent between multiple shells
