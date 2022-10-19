@@ -1,4 +1,4 @@
 type = theme
-repository = https://github.com/tweetjay/theme-tweetjay.git
+repository = https://github.com/j0d5/theme-tweetjay
 maintainer = Johannes Steudle <jaycloudy@icloud.com>
 description = Git oriented theme for oh-my-fish
