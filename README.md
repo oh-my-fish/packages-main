@@ -4,12 +4,12 @@ Primary package repository for the [Oh My Fish][oh-my-fish] [Fish shell][fish] f
 This repository contains a list of public Fish packages that can be installed by name using Oh My Fish. The goal of this repo is to maintain a discoverable index of quality Fish packages that can easily be maintained by the Fish community.
 
 ## Repository format
-Packages are referenced in the repository using property files located in the `packages/` directory. The actual code of each package is stored in separate, individual Git repositories maintaned by the package mantainer themselves. This keeps control of the package in the owner's hands, but still allows easy sharing of the package.
+Packages are referenced in the repository using property files located in the `packages/` directory. The actual code of each package is stored in separate, individual Git repositories maintained by the package maintainer themselves. This keeps control of the package in the owner's hands, but still allows easy sharing of the package.
 
 The name of each property file indicates the package name, and the various properties in the file describe the package and how it can be installed. These are the properties currently used:
 
 - `type`: The type of package. Can be `plugin` or `theme`.
-- `repository`: A cloneable Git URL to the package source repository.
+- `repository`: A clonable Git URL to the package source repository.
 - `maintainer`: The name and email of the maintainer of the package.
 - `description`: A short description of the package.
 
@@ -23,7 +23,7 @@ maintainer = YOUR-NAME <YOUR-EMAIL>
 description = YOUR-PACKAGE-DESCRIPTION
 ```
 
-Be sure to use a cloneable Git URL for your package. If your package is a theme, use `type = theme` instead.
+Be sure to use a clonable Git URL for your package. If your package is a theme, use `type = theme` instead.
 
 Once you've created and committed your package description file, [open a pull request][new-pr] with your change, and the repository maintainers will review your submission and merge it in to the main repo.
 
