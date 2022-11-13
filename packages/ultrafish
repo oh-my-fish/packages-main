@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/Ultra980/ultrafish-theme.git
+maintainer = Alex Stan <alexs.dev980@gmail.com>
+description = A minimalist but feature-packed theme.
