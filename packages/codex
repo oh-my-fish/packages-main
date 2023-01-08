@@ -1,0 +1,5 @@
+type = plugin
+repository = https://github.com/tom-doerr/codex.fish
+maintainer = tom-doerr
+description = plugin that enables you to use OpenAI's powerful Codex AI in the command line. OpenAI Codex is the AI that also powers GitHub Copilot. To use this plugin you need to get access to OpenAI's Codex API.
+branch = main
