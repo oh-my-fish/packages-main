@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/suizman/fish-top
+maintainer = suizman
+description = Get most used commands in Fish Shell (Top 20)
