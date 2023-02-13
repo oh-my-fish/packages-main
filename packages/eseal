@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/isinyaaa/fish-eseal
+maintainer = Isabella Basso <isabbasso@riseup.net>
+description = cmorrel adapted for MacOS + some tweaks
