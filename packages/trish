@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/victante/trish
+maintainer = Victor Coutinho <vcr1206@gmail.com>
+description = A fish shell plugin to manage the Trash folder
