@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/Micha-ohne-el/error
+maintainer = Micha-ohne-el <michalehmann0112@gmail.com>
+description = A simple, light-weight, user-friendly error message handler/printer.
