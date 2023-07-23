@@ -1,4 +1,4 @@
 type = theme
-repository = https://github.com/n1c00o/fish-anchor
-maintainer = n1c00o <git.n1c00o@gmail.com>
+repository = https://github.com/nseezero/fish-anchor
+maintainer = nseezero <n@nc0.fr>
 description = An elegant and minimalist theme for the Fish Shell
