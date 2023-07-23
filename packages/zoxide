@@ -2,3 +2,4 @@ type = plugin
 repository = https://github.com/ajeetdsouza/zoxide
 description = A smarter, configurable cd command for your shell
 maintainer = Ajeet D'Souza <98ajeet@gmail.com>
+branch = main
