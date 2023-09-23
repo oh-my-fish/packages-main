@@ -1,0 +1,4 @@
+type = theme 
+repository = https://github.com/schlanqe/theme-han 
+maintainer = Ilhan Burcak Bas(schlanqe) <ilhanburcakbas@gmail.com>
+description = a minimalist fish theme for the vi modeusers
