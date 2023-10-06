@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/danhper/fish-ssh-agent
+maintainer = Kemel Zaidan <kemelzaidan at gmail dot com>
+description = Make ssh-agent compatible with fish shell
