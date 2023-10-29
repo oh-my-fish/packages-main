@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/nickeb96/puffer-fish
+maintainer = Kemel Zaidan <kemelzaidan at gmail dot com>
+description = Text expansion for Fish shell
