@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/nick-1666/hull.git
+maintainer = Nick-1666 <admin@nick-1666.dev>
+description = A simple git aware theme based on "will", "ocean" and "bobthefish"
