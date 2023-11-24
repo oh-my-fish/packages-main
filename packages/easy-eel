@@ -1,0 +1,3 @@
+type = theme
+repository = https://github.com/pgolebiowski/theme-easy-eel
+description = Dive into a minimalistic command line experience with Easy Eel for the Fish shell. Comprehensive customization, ocean-themed greetings, and a clean interface.
