@@ -1,4 +1,4 @@
 type = plugin
-repository = https://gitlab.com/lusiadas/insist
-maintainer = hThoreau
+repository = https://gitlab.com/argonautica/insist
+maintainer = Aragon
 description = Repeat the previous command line input, either until it is successful, or for a given amount of attempts.

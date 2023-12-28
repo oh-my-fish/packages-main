@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/argonautica/list_utils
+maintainer = Aragon
+description = Utility to list manually installed packages upon their installation or removal.

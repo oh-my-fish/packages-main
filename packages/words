@@ -1,4 +1,0 @@
-type = plugin
-repository = https://gitlab.com/lusiadas/words
-maintainer = hThoreau
-description = Display, or send to clipboard, a given amount of random words

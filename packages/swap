@@ -1,0 +1,4 @@
+type = plugin
+repository = https://gitlab.com/argonautica/swap
+maintainer = Aragon
+description = A wrapper function to allow mv to swap the location or contents of targeted files or folders.
