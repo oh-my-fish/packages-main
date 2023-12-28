@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/harmtemolder/fish-autoconda
+maintainer = Harm te Molder <mail@harmtemolder.com>
+description = Automatically activate/deactivate conda virtual enviroments when entering/leaving a directory
