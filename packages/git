@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/fjpalacios/plugin-git
+maintainer = Javi Palacios <javi@fjp.es>
+description = Git plugin for Oh My Fish with the same aliases as the Oh My Zsh git plugin
