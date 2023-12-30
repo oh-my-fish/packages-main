@@ -1,4 +1,4 @@
 type = theme
-repository = https://github.com/thesilican/theme-solarfish
+repository = https://github.com/thesilican/solarfish
 maintainer = Bryan Chen <bryanchen74@gmail.com>
-description = A simple, git-aware, two-line fish theme
+description = A git-aware two-line fish theme
