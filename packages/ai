@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/derekstavis/fish-ai
+maintainer = Derek Stavis <dekestavis@gmail.com>
+description = Don't remember the command? Use AI to figure out!
