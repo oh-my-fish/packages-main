@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/m-radzikowski/omf-plugin-q
+maintainer = Maciej Radzikowski <maciej@radzikowski.com.pl>
+description = Short q alias for exit command. Save those milliseconds!
