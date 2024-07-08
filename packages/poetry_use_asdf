@@ -1,0 +1,5 @@
+type = plugin
+repository = https://github.com/RCristiano/poetry_use_asdf
+maintainer = Rodrigo Cristiano <rcristianofv@hotmail.com>
+description = Allows poetry to use python versions of asdf
+branch = main
