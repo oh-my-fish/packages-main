@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/kfkonrad/workspace-change-directory
+description = Change the directory to a given repo in your workspace
+maintainer = Kevin F. Konrad <info@kevinkonrad.de>
