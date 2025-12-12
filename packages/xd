@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/kuncevic/execute-dir.fish
+description = A Fish plugin for running scripts in target folder.
+maintainer = Aliaksei Kuncevic <aliaksei@kuncevic.dev>
