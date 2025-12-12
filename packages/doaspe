@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/vec137/plugin-doaspe
+maintainer = vec137
+description = Just a fork of sudope plugin but with doas instead
