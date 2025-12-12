@@ -1,0 +1,5 @@
+name = puritan
+type = theme
+repository = https://github.com/Lodobo/puritan-fish-prompt.git
+maintainer = Lodobo <lodobo303@gmail.com>
+description = A minimal fish prompt with current directory and git branch, inspired by Robby Russel.
