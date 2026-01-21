@@ -1,0 +1,3 @@
+type = theme
+repository = https://github.com/leleliu008/fish-powerline
+description = powerline-shell wrapper for fish
