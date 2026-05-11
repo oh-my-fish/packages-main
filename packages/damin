@@ -1,4 +1,4 @@
 type = theme
-repository = https://github.com/miniex/omf-theme-damin
+repository = https://github.com/miniex/fish-theme-damin
 maintainer = Han Damin <miniex@daminstudio.net>
-description = A small fish prompt with Catppuccin Mocha and Dingbats glyphs
+description = A cute fish prompt with Catppuccin Mocha and Dingbats glyphs
