@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/m-radzikowski/omf-plugin-mkcd
+maintainer = Maciej Radzikowski <maciej@radzikowski.com.pl>
+description = Create a directory and switch to it.
