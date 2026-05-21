@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/dgrant/fish-autovenv2.git
+maintainer = David Grant <davidgrant@gmail.com>
+description = Automagically activate/deactivate Python venv when entering/leaving a directory
