@@ -1,0 +1,5 @@
+type = plugin
+repository = https://github.com/kirankotari/default-git/
+maintainer = kirankotari
+description = A feature-rich theme derived from default, a new style to git.
+
