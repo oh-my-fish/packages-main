@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/Alaz-Oz/fish-insulter
+maintainer = Mohammad Afroz Alam <asteroidalaz@gmail.com>
+description = Get insulted for wrong commands
