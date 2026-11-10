@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/NCMBianchi/keep_the_fish_alive
+maintainer = NCMBianchi <ncmb89@gmail.com>
+description = An overly simplified custom theme for OhMyFish that dies on errors, with exit code, git, venv/conda, node.js and bun indicators
